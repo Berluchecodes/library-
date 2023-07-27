@@ -13,7 +13,6 @@ books = await getBooks()
 }
 
 
-booksWrapper.classList.remove('books__loading')
 
 
 

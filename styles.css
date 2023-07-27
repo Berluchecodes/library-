@@ -250,8 +250,6 @@ align-items: center;
 padding: 20px;
 
 
-/* Added this after the tutorial to
-show it over the wave on larger screens */
 z-index: 100;
 }
 
@@ -278,6 +276,7 @@ align-items: center;
 .no-cursor {
 cursor: not-allowed;
 }
+
 /*
 
 
@@ -392,7 +391,6 @@ padding: 24px;
 max-height: 380px;
 transition: all 300ms ease;
 cursor: not-allowed;
-/* Added after tutorial to maintain image aspect ratio */
 object-fit: contain;
 object-position: left;
 }
